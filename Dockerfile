@@ -5,5 +5,6 @@ run pip3 install joblib
 run pip3 install scikit-learn==0.23.1
 copy marks.pk1  /
 copy  marks.py  /
-cmd  python3  jem.py
-cmd python3 marks.py
+copy  jem.py  /
+cmd  python3  /jem.py
+cmd python3 /marks.py
