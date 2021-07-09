@@ -6,4 +6,4 @@ run pip3 install scikit-learn==0.23.1
 copy marks.pk1  /
 copy  marks.py  /
 copy  jem.py  /
-cat marks.py
+cmd cat marks.py
